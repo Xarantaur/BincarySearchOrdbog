@@ -1,5 +1,7 @@
 ikke 100 færdig. virker ikke korrekt.
 
+https://xarantaur.github.io/BincarySearchOrdbog/
+
 i iterationerne gennem ordbogen springer den over den korrekte variant og finder aldrig tilbage til den.
 snippet af console på JS:
 
